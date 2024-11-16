@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Portfolio Web App",
+    "imageSrc": "projects/portfolio web image.png",
+    "description": "This is my portfolio web app build using ReactJs to make online presence and brush up my react skill.",
+    "skills": ["HTML","CSS","JS","React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Random Text Generator",
+    "imageSrc": "projects/Rtg.png",
+    "description": "This is a Random Text Generator build using JavaScript to generate random text .",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://talsaniyayash2005.github.io/Random-Text-Generator/",
+    "source": "https://github.com/TalsaniyaYash2005/Random-Text-Generator"
+  }
+]
