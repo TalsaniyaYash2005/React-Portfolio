@@ -16,7 +16,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src="assets\vecteezy_3d-male-character-happy-working-on-a-laptop_24387908.png"
+        src="assets\hero\3dIcon1.png"
         alt="Hero image of me"
         className={styles.heroImg}
       />
